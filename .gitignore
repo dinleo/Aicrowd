@@ -1,0 +1,9 @@
+/mosquito_alert/mnist/mnist_numpy.pkl
+/mosquito_alert/phase2_train_v0.csv
+/mosquito_alert/phase2_train_v0.zip
+/mosquito_alert/mnist/t10k-images-idx3-ubyte.gz
+/mosquito_alert/mnist/t10k-labels-idx1-ubyte.gz
+/mosquito_alert/mnist/train-images-idx3-ubyte.gz
+/mosquito_alert/mnist/train-labels-idx1-ubyte.gz
+/mosquito_alert/tensor_image.pt
+/.idea/*
